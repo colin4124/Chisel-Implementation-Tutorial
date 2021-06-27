@@ -6,7 +6,7 @@
 
 ## Slide
 
-https://github.com/colin4124/Chisel-Implementation-Tutorial-Slide/releases/download/v1.0/Chisel-Implementation-Tutorial.pdf
+[Chisel Implementation Tutorial Slide](https://github.com/colin4124/Chisel-Implementation-Tutorial-Slide/releases/download/v1.0/Chisel-Implementation-Tutorial.pdf)
 
 ## Run
 
